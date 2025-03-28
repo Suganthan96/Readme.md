@@ -10,8 +10,15 @@ I'm a passionate individual with a strong interest in developing innovative proj
 
 ### Designing
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Canva}(https://camo.githubusercontent.com/404f091150dd19618f93d728a3fab920b164a11acfb2de922d78093a15a1dd90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d43616e76612d3030433443433f6c6f676f3d63616e7661266c6f676f436f6c6f723d7768697465267374796c653d666c6174)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)
 
+### Programming Languages 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 
 

@@ -26,8 +26,7 @@ I'm a passionate individual with a strong interest in developing innovative proj
 ## IOT  
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="25">  
 <img src="https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white" height="25">  
-<img src="https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="25">  
-<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="25">  
+
 
 ## Connect With Me  
 <a href="https://linkedin.com/in/SuganthanTS">

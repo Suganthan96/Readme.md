@@ -5,7 +5,6 @@
 I'm a passionate individual with a strong interest in developing innovative projects, shutterbug and a keen eye on designing.
 
 ---
-
 ## 👨‍💻 Technologies & Tools
 
 ## Designing  

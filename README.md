@@ -1,6 +1,8 @@
 #  Suganthan 👋
 
-*Full Stack Developer | Designer*
+## Full Stack Developer | Designer
+
+---
 
 I’m a passionate developer, blending technology and design to craft innovative website solutions that elevate user experiences.
 
@@ -46,7 +48,7 @@ I’m a passionate developer, blending technology and design to craft innovative
 
 ---
 
-### 🗄 Database
+###  Database
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -88,6 +90,6 @@ I’m a passionate developer, blending technology and design to craft innovative
 
 ---
 
-## 🚀 Open to Collaboration
+## 🌐 Open to Collaboration
 
 I'm always excited to work on innovative projects!.  Feel free to reach out if you have an interesting project or idea. Let's build something amazing together! ✨

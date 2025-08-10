@@ -1,6 +1,6 @@
-# 💻 Suganthan T S
+#  Suganthan 😎
 
-**Full Stack Developer | Web3 Builder | IoT Innovator | Hackathon Enthusiast**
+**Full Stack Developer | Designer**
 
 Hi! I’m Suganthan – a passionate developer exploring the intersection of **hardware, software, and blockchain**. I build decentralized, real-time, and smart solutions for impactful, scalable systems. Always learning, always building!
 
@@ -62,7 +62,7 @@ Hi! I’m Suganthan – a passionate developer exploring the intersection of **h
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   
 ![Suganthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suganthan96&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
 

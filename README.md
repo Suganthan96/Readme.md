@@ -1,8 +1,8 @@
-#  Suganthan 😎
+#  Suganthan 👋
 
 **Full Stack Developer | Designer**
 
-Hi! I’m Suganthan – a passionate developer exploring the intersection of **hardware, software, and blockchain**. I build decentralized, real-time, and smart solutions for impactful, scalable systems. Always learning, always building!
+Hi! I'm Suganthan – a passionate developer exploring the intersection of **hardware, software, and blockchain**. I build decentralized, real-time, and smart solutions for impactful, scalable syste[...]
 
 ---
 
@@ -32,6 +32,7 @@ Hi! I’m Suganthan – a passionate developer exploring the intersection of **h
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ---
 

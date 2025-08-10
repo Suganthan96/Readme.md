@@ -2,8 +2,6 @@
 
 ## Full Stack Developer | Designer
 
----
-
 I’m a passionate developer, blending technology and design to craft innovative website solutions that elevate user experiences.
 
 ---

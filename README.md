@@ -1,14 +1,14 @@
-#  Suganthan 😎
+#  Suganthan 👋
 
-**Full Stack Developer | Designer**
+*Full Stack Developer | Designer*
 
-Hi! I'm Suganthan – a passionate developer exploring the intersection of **hardware, software, and blockchain**. I build decentralized, real-time, and smart solutions for impactful, scalable syste[...]
+I’m a passionate developer, blending technology and design to craft innovative website solutions that elevate user experiences.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### ⚛️ Frontend Development
+###  Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
@@ -19,7 +19,7 @@ Hi! I'm Suganthan – a passionate developer exploring the intersection of **har
 
 ---
 
-### 🧠 Backend Development
+###  Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -29,7 +29,7 @@ Hi! I'm Suganthan – a passionate developer exploring the intersection of **har
 
 ---
 
-### 🌐 Web3 Development
+###  Web3 Development
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
@@ -37,7 +37,7 @@ Hi! I'm Suganthan – a passionate developer exploring the intersection of **har
 
 ---
 
-### 🧰 Development Tools
+###  Development Tools
 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
@@ -46,14 +46,14 @@ Hi! I'm Suganthan – a passionate developer exploring the intersection of **har
 
 ---
 
-### 🗄️ Database
+### 🗄 Database
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🎨 Designing
+###  Designing
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
@@ -62,7 +62,7 @@ Hi! I'm Suganthan – a passionate developer exploring the intersection of **har
 
 ---
 
-### 🎭 3D Modeling & Animation
+###  3D Modeling & Animation
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
@@ -77,3 +77,17 @@ Hi! I'm Suganthan – a passionate developer exploring the intersection of **har
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suganthan96&layout=compact&theme=tokyonight&hide_border=false)
 
 </div>
+
+---
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suganthan-t-s-79306a292/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Suganthan2006)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/suganthan96)
+
+---
+
+## 🚀 Open to Collaboration
+
+I'm always excited to work on innovative projects!.  Feel free to reach out if you have an interesting project or idea. Let's build something amazing together! ✨
